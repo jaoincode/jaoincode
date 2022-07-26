@@ -1,5 +1,4 @@
-### olá 👋
-##
+## olá 👋
 
 - Seja bem-vindo(a)! Meu nome é João Vitor e eu gosto muito de tecnologia, com isso comecei a me interessar por programação e já fazem 4 meses que comecei a me aprofundar nessa área.
 - Aqui você vai encontrar meus repositórios dos cursos que ando fazendo e também de alguns projetos pessoais para praticar e melhorar minhas habilidades. 
@@ -19,6 +18,7 @@
   
  ##
   
+### Você também pode me encontrar aqui:
 <div> 
   <a href="https://www.youtube.com/channel/UCDzYcNXdCR2lEdxDt15xNtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jaovitokkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
