@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João Vitor (jaoincode)
-==============================================================================================================================================
-
-studying to be a frontend developer
+### Hi! My name is João Vitor (jaoincode)
+#### Studying to be a frontend developer
 -----------------------------------
 
 I've always been very interested and passionate about technology, since I was a kid, and now I've been studying programming for 7 months and I store all my projects and code here
