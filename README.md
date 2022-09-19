@@ -8,6 +8,8 @@ I've always been very interested and passionate about technology, since I was a 
 * ✉️  You can contact me at [ojoaogugel@gmail.com](mailto:ojoaogugel@gmail.com)
 * 🧠  I'm learning ReactJs
 
+<a href="https://github.com/jaoincode/jaoincode/blob/main/README-pt.md" >ver em português</a>
+
 ### Skills
 
 <p align="left">
